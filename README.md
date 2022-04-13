@@ -37,7 +37,12 @@
 │
 └───────────────────────────────▰▰▰ -->
 </pre>
---------------
+| [![abouazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelhamidbouazi&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/abdelhamidbouazi?tab=repositories) | [![abouazi's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=true&theme=jolly)](https://github.com/abdelhamidbouazi?tab=repositories) |
+|:-:|:-:|
 
-<a>LinkedIn : </a><div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="abdelhamid-bouazi-7289631aa" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/abdelhamid-bouazi-7289631aa?trk=profile-badge">Abdelhamid Bouazi</a></div>
+<p align="center">
+	<img alt="achrafelkhnissi's visitors" src="https://komarev.com/ghpvc/?username=abdelhamidbouazi&color=8c36db&style=flat&label=visitors" />
+	<img alt="achrafelkhnissi's followers" src="https://img.shields.io/github/followers/abdelhamidbouazi?color=blueviolet" />
+	<img alt="achrafelkhnissi's stars" src="https://img.shields.io/github/stars/abdelhamidbouazi?color=blueviolet" />
+</p>
               
