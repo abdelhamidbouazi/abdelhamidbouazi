@@ -8,5 +8,5 @@
 >  Interested in CyberSecurity.
 
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=abouazi)](https://github.com/abdelhamidbouazi)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=abouazi)](https://github.com/abdelhamidbouazi)]
 [![Abdelhamid Bouazi's 42 stats](https://badge42.vercel.app/api/v2/cl1wyfjfs003509mhbuaktimz/stats?cursusId=21&coalitionId=75)]
