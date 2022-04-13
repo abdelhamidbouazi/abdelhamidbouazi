@@ -1,6 +1,6 @@
 </p>
 <p align="center">  
-<img src ="https://miro.medium.com/max/1400/0*goaFvkjpQM-0p0h6.">
+<img src ="https://static.wixstatic.com/media/33a7e1_64e5ffe9c64440b29e1f9acacb7b5815~mv2.gif">
 </p>
 
 ## root:~$ whoami
