@@ -8,3 +8,9 @@
 >  Interested in CyberSecurity.
 
 [![Abdelhamid Bouazi's 42 Profile Card](https://badge42.vercel.app/api/v2/cl1wyfjfs003509mhbuaktimz/stats?cursusId=21&coalitionId=75)]
+
+--------------
+
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="abdelhamid-bouazi-7289631aa" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/abdelhamid-bouazi-7289631aa?trk=profile-badge">Abdelhamid Bouazi</a></div>
+
+--------------
