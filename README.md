@@ -67,4 +67,3 @@
 	<img alt="abdelhamidbouazi's followers" src="https://img.shields.io/github/followers/abdelhamidbouazi?color=blueviolet" />
 	<img alt="abdelhamidbouazi's stars" src="https://img.shields.io/github/stars/abdelhamidbouazi?color=blueviolet" />
 </p>
-              
