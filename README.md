@@ -7,15 +7,20 @@
 <pre>
 
 ┌──┤ WHO AM I ├─────────▰▰▰
+|
 ├─▣ Computer Science Student at 1337 Khouribga
 ├─▣ From Khouribga Morocco
 ├─▣ Interested in CyberSecurity.
+|
 └───────────────────────────────▰▰▰
+
 ┌──┤ SOCIAL ├─────────▰▰▰
+|
 ├─◈ <a href="https://ma.linkedin.com/in/abdelhamid-bouazi-7289631aa">LinkedIn</a>
 ├─◈ <a href="https://twitter.com/abdelhamidbz">Twitter</a>
 ├─◈ <a href="https://www.instagram.com/abdelhamidbz">Instagram</a>
 ├─◈ Discord: Opus#8949
+|
 └───────────────────────────────▰▰▰
 </pre>
 ## root:~$ Languages & Tools
