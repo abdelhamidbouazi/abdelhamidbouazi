@@ -41,8 +41,8 @@
 |:-:|:-:|
 
 <p align="center">
-	<img alt="achrafelkhnissi's visitors" src="https://komarev.com/ghpvc/?username=abdelhamidbouazi&color=8c36db&style=flat&label=visitors" />
-	<img alt="achrafelkhnissi's followers" src="https://img.shields.io/github/followers/abdelhamidbouazi?color=blueviolet" />
-	<img alt="achrafelkhnissi's stars" src="https://img.shields.io/github/stars/abdelhamidbouazi?color=blueviolet" />
+	<img alt="abdelhamidbouazi's visitors" src="https://komarev.com/ghpvc/?username=abdelhamidbouazi&color=8c36db&style=flat&label=visitors" />
+	<img alt="abdelhamidbouazi's followers" src="https://img.shields.io/github/followers/abdelhamidbouazi?color=blueviolet" />
+	<img alt="abdelhamidbouazi's stars" src="https://img.shields.io/github/stars/abdelhamidbouazi?color=blueviolet" />
 </p>
               
