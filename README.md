@@ -47,7 +47,7 @@ thus "cadets" (42's students).
 ## Education Program
 </p>
 <p align="center">  
-<img src ="https://github.com/abdelhamidbouazi/abdelhamidbouazi/src/3y_edu_program.png" width="800">
+<img src ="https://github.com/abdelhamidbouazi/abdelhamidbouazi/blob/main/src/3y_edu_program.png" width="800">
 </p>
 
 ## 🛠️ Skills developed at 1337
