@@ -19,33 +19,67 @@
 ├─◈ Discord: Opus#8949
 └───────────────────────────────▰▰▰
 </pre>
-## root:~$ Languages & Tools
-
-<p align="left">
-	<img src="https://img.icons8.com/color/64/000000/windows-10.png"/>
-	<img src="https://img.icons8.com/color/64/000000/mac-os-logo.png"/>
-	<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/64/000000/external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-shadow-tal-revivo.png"/>
-	<img src="https://img.icons8.com/color/64/000000/git.png"/>
-	<img src="https://img.icons8.com/color/64/000000/visual-studio-code-2019.png"/>
-	<img src="https://img.icons8.com/color/64/000000/notion--v1.png"/>
-</p>
-<p align="left">
-	<img src="https://img.icons8.com/color/64/000000/c-programming.png"/>
-	<img src="https://img.icons8.com/color/64/000000/javascript--v1.png"/>
-	<img src="https://img.icons8.com/color/64/000000/html-5--v1.png"/>
-	<img src="https://img.icons8.com/color/64/000000/css3.png"/>
-	<img src="https://img.icons8.com/color/64/000000/bootstrap.png"/>
-</p>
-<p align="left">
-	<img src="https://img.icons8.com/color/64/000000/adobe-illustrator--v1.png"/>
-	<img src="https://img.icons8.com/color/64/000000/adobe-indesign--v1.png"/>
-	<img src="https://img.icons8.com/color/64/000000/adobe-photoshop--v1.png"/>
-</p>
 
 [![abouazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelhamidbouazi&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/abdelhamidbouazi?tab=repositories) | [![abouazi's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=true&theme=jolly)](https://github.com/abdelhamidbouazi?tab=repositories) |
 |:-:|:-:|
+---
+
+<h1 align="center">
+	1337
+</h1>
+
 <p align="center">
-	<img alt="abdelhamidbouazi's visitors" src="https://komarev.com/ghpvc/?username=abdelhamidbouazi&color=8c36db&style=flat&label=visitors" />
-	<img alt="abdelhamidbouazi's followers" src="https://img.shields.io/github/followers/abdelhamidbouazi?color=blueviolet" />
-	<img alt="abdelhamidbouazi's stars" src="https://img.shields.io/github/stars/abdelhamidbouazi?color=blueviolet" />
+	<b><i>Projects developed at <a href="https://www.1337.ma/">1337 Khouribga </a> programming school.</i></b><br>
+	Start date: 01/Nov/2021 - The 4th promo!
 </p>
+
+## About 1337 School :
+
+1337 is a part of 42 network. \
+42 is a global education initiative that offers a new way of learning technology:
+no teachers, no classrooms, students learning from their fellow students (peer to peer
+learning), with a methodology that develops both computing and life skills. The 42 cursus is
+free for whoever is approved in its selection process* - the so-called "Piscine" - becoming
+thus "cadets" (42's students).
+
+----
+
+## Education Program
+</p>
+<p align="center">  
+<img src ="https://github.com/abdelhamidbouazi/abdelhamidbouazi/src/3y_edu_program.png" width="800">
+</p>
+
+## 🛠️ Skills developed at 1337
+
+### Hard-skills
+
+	* C/C++ language, Makefile
+	* Shell scripting
+	* Git
+	* Networks
+	* Docker
+	* SQL
+	* Web (HTML, CSS, Wordpress)
+	* Computer graphics
+	* Assembly language
+
+-- among others (find it in the complete [curriculum](https://github.com/achrafelkhnissi/1337/blob/master/42curses/README.md#-42s-galaxy-curriculum)).
+
+### Soft-skills
+
+	# Self-learning and proactivity
+		At 42, self-learning is at the core of its peer to peer learning methodology. There
+		are no teachers whatsoever; the learning process is based on googling, enquiring
+		your classmates, and empirical knowledge, each student learning at their own pace.
+
+	# Teamwork
+		Some projects must or should be developed in groups, which promotes collaborative
+		work among cadets. The major challenge here is to equalize the different knowledge
+		levels while finding a common work methodology that allows all team members to
+		contribute to the project.
+
+	# Time management and resiliency
+		The school is open 24/7. Thus, the cadets are free to work whenever they want, which
+		demands excellent time management skills and resiliency for not "drowning" amid the
+		massive load of work demanded by the program.
