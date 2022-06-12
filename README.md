@@ -55,12 +55,13 @@ thus "cadets" (42's students).
 ### Hard-skills
 
 	* C/C++ language, Makefile
+	* Python
 	* Shell scripting
+	* Web (HTML, CSS, JS)
 	* Git
 	* Networks
 	* Docker
 	* SQL
-	* Web (HTML, CSS, Wordpress)
 	* Computer graphics
 	* Assembly language
 
