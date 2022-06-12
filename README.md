@@ -1,6 +1,6 @@
 ## root:~$ whoami
 >  Computer Science student at [1337](1337.ma) \
->  Interested in CyberSecurity.
+>  Interested in Backend.
 
 [![Abdelhamid Bouazi's 42 Profile Card](https://badge42.vercel.app/api/v2/cl1wyfjfs003509mhbuaktimz/stats?cursusId=21&coalitionId=75)]
 
@@ -9,7 +9,7 @@
 ┌──┤ WHO AM I ├─────────▰▰▰
 ├─▣ Computer Science Student at 1337 Khouribga
 ├─▣ From Khouribga Morocco
-├─▣ Interested in CyberSecurity.
+├─▣ Interested in Backend.
 └───────────────────────────────▰▰▰
 
 ┌──┤ SOCIAL ├─────────▰▰▰
