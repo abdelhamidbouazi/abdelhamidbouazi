@@ -25,7 +25,7 @@
 ---
 
 <h1 align="center">
-	1337
+	Academic Background - 1337
 </h1>
 
 <p align="center">
