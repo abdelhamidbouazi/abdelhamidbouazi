@@ -9,7 +9,7 @@
 ┌──┤ WHO AM I ├─────────▰▰▰
 ├─▣ Computer Science Student at 1337 Khouribga
 ├─▣ From Khouribga Morocco
-├─▣ Interested in CyberSecurity.
+├─▣ Interested in Backend.
 └───────────────────────────────▰▰▰
 
 ┌──┤ SOCIAL ├─────────▰▰▰
