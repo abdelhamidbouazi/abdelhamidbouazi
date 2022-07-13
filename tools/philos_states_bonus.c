@@ -6,11 +6,11 @@
 /*   By: abouazi <abouazi@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/26 00:17:09 by abouazi           #+#    #+#             */
-/*   Updated: 2022/06/12 18:15:20 by abouazi          ###   ########.fr       */
+/*   Updated: 2022/07/13 02:03:22 by abouazi          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../bonus/philo_bonus.h"
+#include "../philo_bonus/philo_bonus.h"
 
 void	ft_sleep(long long time)
 {

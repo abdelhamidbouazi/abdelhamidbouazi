@@ -6,7 +6,7 @@
 #    By: abouazi <abouazi@student.42.fr>            +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/05/09 05:50:19 by abouazi           #+#    #+#              #
-#    Updated: 2022/06/12 18:11:43 by abouazi          ###   ########.fr        #
+#    Updated: 2022/07/13 02:04:29 by abouazi          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -17,9 +17,9 @@ CFLAGS = -Wall -Wextra -Werror
 RM = rm -f
 
 SRC_MANDATORY = philo.c parsing.c initialize.c inv_philos.c utils.c \
-				../mandatory/ft_atoi.c
+				../philo/ft_atoi.c
 
-SRC_BONUS = ../bonus/philo_bonus.c \
+SRC_BONUS = ../philo_bonus/philo_bonus.c \
 			../tools/ft_isnumber.c \
 			../tools/ft_strlen.c \
 			../tools/ft_strcmp.c \

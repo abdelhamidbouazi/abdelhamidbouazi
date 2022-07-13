@@ -6,11 +6,11 @@
 /*   By: abouazi <abouazi@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/26 00:16:53 by abouazi           #+#    #+#             */
-/*   Updated: 2022/06/12 18:15:13 by abouazi          ###   ########.fr       */
+/*   Updated: 2022/07/13 02:03:13 by abouazi          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../bonus/philo_bonus.h"
+#include "../philo_bonus/philo_bonus.h"
 
 int	ft_strcmp(char *s1, char *s2)
 {
