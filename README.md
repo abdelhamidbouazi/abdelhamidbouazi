@@ -1,4 +1,4 @@
-## root:~$ whoami
+## root:~$ whoAmI
 >  Computer Science student at [1337](1337.ma) \
 >  Interested in Cyber Security.
 
