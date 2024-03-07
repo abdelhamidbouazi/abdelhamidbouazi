@@ -2,6 +2,8 @@
 >  Computer Science student at [1337](1337.ma) \
 >  Interested in Cyber Security.
 
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/abouazi" alt="abouazi's 42 stats" /></a>
+
 [![Abdelhamid Bouazi's 42 Profile Card](https://badge42.vercel.app/api/v2/cl1wyfjfs003509mhbuaktimz/stats?cursusId=21&coalitionId=75)]
 
 <pre>
