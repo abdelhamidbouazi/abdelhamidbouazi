@@ -3,8 +3,7 @@
 >  Interested in Cyber Security.
 
 
-[![Abdelhamid Bouazi's 42 Profile Card]
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/abouazi" alt="abouazi's 42 stats" /></a>]
+[![Abdelhamid Bouazi's 42 Profile Card]<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/abouazi" alt="abouazi's 42 stats" /></a>]
 
 
 <pre>
