@@ -3,14 +3,14 @@
 >  Interested in Data Engineering.
 
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/abouazi" alt="abouazi's 42 stats" /></a>
+<a href="https://github.com/abdelhamidbouazi"><img src="https://badge.mediaplus.ma/darkblue/abouazi" alt="abouazi's 42 stats" /></a>
 
 <pre>
 
 ┌──┤ WHO AM I ├─────────▰▰▰
-├─▣ Computer Science Student at 1337 Khouribga
+├─▣ Software Engineering Student at 1337 Khouribga
 ├─▣ From Khouribga Morocco
-├─▣ Interested in Cyber Security.
+├─▣ Interested in Data engineering.
 └───────────────────────────────▰▰▰
 
 ┌──┤ SOCIAL ├─────────▰▰▰
