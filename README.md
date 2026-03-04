@@ -3,7 +3,7 @@
 # 👋 Hey, I'm **Abdelhamid BOUAZI**
 
 🎯 Full Stack & Data Engineer
-📍 Based in Morocco 🇲🇦  
+📍 Based in Spain 🇪🇸
 📚 Currently pursuing **RNCP 7 in Data & Data Architecture (2024–2026)**  
 🎓 4th Promo of 1337 Khouribga (UM6P - 42 Network)
 
