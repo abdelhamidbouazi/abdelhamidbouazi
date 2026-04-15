@@ -4,7 +4,7 @@
 
 🎯 Full Stack & Data Engineer
 📍 Based in Spain 🇪🇸
-📚 Currently pursuing **RNCP 7 in Data & Data Architecture (2024–2026)**  
+📚 Currently pursuing **RNCP 7 in Database & Data Architecture (2024–2026)**  
 🎓 4th Promo of 1337 Khouribga (UM6P - 42 Network)
 
 <a href="https://github.com/abdelhamidbouazi">
