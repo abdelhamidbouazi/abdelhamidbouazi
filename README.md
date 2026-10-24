@@ -7,6 +7,9 @@
 📚 Currently pursuing **RNCP 7 in Database & Data Architecture (2024–2026)**  
 🎓 4th Promo of 1337 Khouribga (UM6P - 42 Network)
 
+<a href="[https://github.com/abdelhamidbouazi](https://img.shields.io/badge/JavaScript_Certified-Senior-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=4A3800)">
+  <img src="https://img.shields.io/badge/JavaScript_Certified-Senior-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=4A3800)" />
+</a>
 <a href="https://github.com/abdelhamidbouazi">
   <img src="https://badge.mediaplus.ma/darkblue/abouazi" alt="abouazi's 42 stats" />
 </a>
