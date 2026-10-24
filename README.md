@@ -1,19 +1,41 @@
 <div align="center">
 
 # 👋 Hey, I'm **Abdelhamid BOUAZI**
-
-🎯 Full Stack & Data Engineer
-📍 Based in Spain 🇪🇸
-📚 Currently pursuing **RNCP 7 in Database & Data Architecture (2024–2026)**  
-🎓 4th Promo of 1337 Khouribga (UM6P - 42 Network)
-
 <a href="[https://github.com/abdelhamidbouazi](https://img.shields.io/badge/JavaScript_Certified-Senior-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=4A3800)">
   <img src="https://img.shields.io/badge/JavaScript_Certified-Senior-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=4A3800)" />
 </a>
-<a href="https://github.com/abdelhamidbouazi">
-  <img src="https://badge.mediaplus.ma/darkblue/abouazi" alt="abouazi's 42 stats" />
-</a>
 
+---
+
+<div align="left">
+
+```yaml
+role: Full-Stack Software Engineer
+location: Barcelona, Spain 🇪🇸
+
+education:
+  current: 42 Barcelona (42 Network)
+  previous: 1337 Khouribga (4th Promotion)
+  mobility: International Campus Transfer
+
+interests:
+  - Full-Stack Engineering
+  - Backend Architecture
+  - Scalable SaaS Platforms
+  - Real-Time Systems
+  - Data & IT Architecture
+  - Cloud & DevOps
+
+status: Always learning, always building 💻
+```
+<div/>
+
+
+<!-- <a href="https://github.com/abdelhamidbouazi">
+  <img src="https://badge.mediaplus.ma/darkblue/abouazi" alt="abouazi's 42 stats" />
+</a> -->
+
+<!--
 ---
 
 ### 🧠 About Me
@@ -21,35 +43,9 @@
 💡 I’m passionate about building **scalable systems**, **real-time data pipelines**, and **clean architectures** that bridge software and data worlds.
 ⚙️ My journey blends **Full Stack Engineering**, **Cloud Infrastructure**, and **Data Engineering** — crafting data-driven systems that perform at scale.
 
-</div>
+</div>-->
 
----
 
-## 👤 WHO AM I
-
-```yaml
-role: Full Stack Engineer & Data Engineer
-interests:
-  - Full-Stack Engineering
-  - Data Architecture
-  - Real-time Streaming Systems
-  - Cloud & DevOps Automation
-  - Scalable SaaS Platforms
-from: Morocco 🇲🇦
-status: Always learning, always building 💻
-```
-
----
-
-## 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdelhamidbouazi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/abdelhamidbz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.instagram.com/abdelhamidbouazi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:bouaziabdelhamid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Discord-Opus%238949-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</p>
 
 ---
 
@@ -112,5 +108,17 @@ status: Always learning, always building 💻
 * ☕ My coffee is optimized like my CI/CD: efficient and consistent.
 
 ---
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdelhamidbouazi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/abdelhamidbz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <!-- <a href="https://www.instagram.com/abdelhamidbouazi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
+  <a href="mailto:bouaziabdelhamid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Discord-Opus%238949-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</p>
 
 > *“Code is the poetry of logic, and data is the rhythm of intelligence.”* — **Abdelhamid BOUAZI**
