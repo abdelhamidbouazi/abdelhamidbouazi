@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hey, I'm **Abdelhamid BOUAZI**
-<a href="[https://github.com/abdelhamidbouazi](https://img.shields.io/badge/JavaScript_Certified-Senior-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=4A3800)">
+<a href="https://certificates.dev/javascript/certificates/a2de0e44-a254-4d56-bb9c-984a3a8e8f4c">
   <img src="https://img.shields.io/badge/JavaScript_Certified-Senior-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=4A3800)" />
 </a>
 
